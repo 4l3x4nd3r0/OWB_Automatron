@@ -1,0 +1,42 @@
+﻿l_english:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Header
+ #----------------------------
+  HEADER_THRUSTER_ROBOT:0 "Thruster Robot"
+  HEADER_EYEBOT_ROBOT:0 "Floating Robot"
+  HEADER_BIPEDAL_ROBOT:0 "Bipedal Robot"
+  HEADER_COMBAT_ROBOT:0 "Combat Robot"
+  HEADER_ADVANCED_ROBOT:0 "Advanced Robot"
+  HEADER_SOFTWARE_ROBOT:0 "Robot Software"
+  HEADER_CNC_ROBOT:0 "Command & Control Torso"
+  HEADER_CNC_MODULE_ROBOT:0 "Command & Control Modules"
+  HEADER_MR_HANDY_M1_ROBOT:0 "Robot Range Weapons"
+  HEADER_MR_HANDY_ROBOT:0 "Four-Arm Robot Torso"
+  HEADER_MR_HANDY_M2_ROBOT:0 "Robot Melee Weapons"
+  HEADER_PROTECTRON_ROBOT:0 "Two-Arm Robot Torso"
+  HEADER_PROTECTRON_M2_ROBOT:0 "Robot Range Weapons"
+  HEADER_SENTRY_M1_ROBOT:0 "Robot Heavy Weapons"
+  HEADER_SENTRY_ROBOT:0 "Heavy Two-Arm Robot Torso"
+  HEADER_SENTRY_M2_ROBOT:0 "Robot Explosive Weapons"
+  HEADER_POWER_MANAGEMENT_ROBOT:0 "Power Management"
+  HEADER_ARMOUR_ROBOT:0 "Robot Armour"
+  HEADER_BUILD_EFFICIENCY_ROBOT:0 "Build Efficiency"
+  support_robot_tech:0 "§OSupport Robot§!"
+  combat_robot_tech:0 "§OCombat Robot§!"
+  security_robot_tech:0 "§OSecurity Robot§!"
+
+ #----------------------------
+ # Robotics
+ #----------------------------
+  fallout_robotics_nsb_folder:0 "Robotics"
+  fallout_robotics_nsb_folder_desc:0 "Before the war happened robots were used for a variety of purposes. In the wasteland they can be utilized as combat weapons to great effect with proper investments in technology."
+  robot_automation_nsb_tech:0 "Automation"
+  robot_automation_nsb_tech_desc:0 "Advancements in the field of robotics and artificial intelligence could be put to great use. Increasing our industrial capabilities by installing simple mechanical arms able to weld, bolt and generally man a basic assembly line will speed up our production rate, while such research also opens the way for very interesting military applications."
+    ### Headers
+  HEADER_LIGHT_ROBOT:0 "Light Robots"
+  HEADER_ROBOT_SUBTECH:0 "Robot Improvements"
+  HEADER_MEDIUM_ROBOT:0 "Medium Robots"
+  HEADER_ROBOT_SUBTECH_1:0 "Robotic Refinements"
+  HEADER_HEAVY_ROBOT:0 "Heavy Robots"

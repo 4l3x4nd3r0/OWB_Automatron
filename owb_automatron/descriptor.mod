@@ -1,4 +1,5 @@
 version="0.1"
+picture="Thumbnail.png"
 tags={
 	"Technologies"
 	"Alternative History"
@@ -8,3 +9,4 @@ dependencies={
 }
 name="OWB: Automatron"
 supported_version="1.11.*"
+remote_file_id="2798772375"
